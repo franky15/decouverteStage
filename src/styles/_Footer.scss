@@ -1,0 +1,30 @@
+
+
+.Footer{
+
+    //width: 97%;
+    //margin: auto;
+    background-color: black;
+    height: 150px;
+    
+    // position: relative;
+    // z-index: 0;
+
+    ul{
+
+        width: 15%;
+        
+        margin: auto;
+        list-style-type: none;
+        padding-left: 0px;
+    
+        display: flex;
+        justify-content: space-between;
+        font-size: 30px;
+        color: white;
+        padding: 40px;
+        font-weight: bold;
+       
+    
+    }
+}
